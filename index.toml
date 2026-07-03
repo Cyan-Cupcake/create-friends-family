@@ -1037,12 +1037,24 @@ file = "mods/Create Encased-1.21.1-1.8.1-ht1.jar"
 hash = "570a9629b5b8b636c0742e6a5758e1c558a7603831825fa9c1f312f8d500471c"
 
 [[files]]
+file = "mods/Create-Numismatic Bounties-universal.jar"
+hash = "84e9ba2cc0e7923cc1b408a98b4059fa32ea210ac156c9190c77b3db930b5f61"
+
+[[files]]
 file = "mods/CreateDragonsPlus-1.11.2b.jar"
 hash = "9b15e464465a639de9ef5a935ae9fd94ea545904517d1428bc784a4012e0a1e2"
 
 [[files]]
+file = "mods/CreateNumismatics-1.0.20+neoforge-mc1.21.1.jar"
+hash = "1375ba1b50e53fd09435029b5b2d5b94779ba397cca7e01180d07b0f624e5b9b"
+
+[[files]]
 file = "mods/Design-n-Decor-1.21.1-2.2b.jar"
 hash = "af0264e8ba44b77744d9a6173b79fcc39758c5b975fbb377d4000e85bfcd2c8f"
+
+[[files]]
+file = "mods/ExtraBounties-universal.jar"
+hash = "94a60f81934524a9060c00927e086b1b422ce9758f7776e8118b69d838bfd4e7"
 
 [[files]]
 file = "mods/ExtremeSoundMuffler-3.56_NeoForge-1.21.jar"
@@ -1087,6 +1099,14 @@ hash = "2d7175e43943d22cbb4f8d4533f0ad620f87a3ac12c77a4f15c3a35d965c4f18"
 [[files]]
 file = "mods/Quark-4.1-481.jar"
 hash = "9743a8d319832547ca76b1ae509a86233a19a395c91b2889567a533e63b46ac9"
+
+[[files]]
+file = "mods/QuarkOddities-1.21.1.jar"
+hash = "c8db22ff8f57d9b60201c8fe87497d2890030373f7abc91a5ffcf8fa9245039c"
+
+[[files]]
+file = "mods/QuarkPonders-1.5.1_NeoForge-1.21.1.jar"
+hash = "5e2f57b0172860006ae6b6ad8ef7431b4ee74da8ab48da817d9633d98f726224"
 
 [[files]]
 file = "mods/RapidLeafDecay-1.21.1-3.0.1.jar"
@@ -1193,6 +1213,10 @@ file = "mods/bookshelf-neoforge-1.21.1-21.1.81.jar"
 hash = "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76"
 
 [[files]]
+file = "mods/bountiful-neoforge-8.0.0-beta.2.jar"
+hash = "dca5e0af724e3076b3d950b7ec88cf63c509435cf41371a6e1c7c306cb6a7e51"
+
+[[files]]
 file = "mods/camping-neoforge-1.21.1-2.1.4.jar"
 hash = "d1ad5a7a824fcc07c8d20ee97c2cfde4ddb6f9e43d510a2be3bcd5f237c3ad1b"
 
@@ -1293,6 +1317,10 @@ file = "mods/create_aeronautics_transmission_linkage-0.2.5.jar"
 hash = "8151aeb76911b0bfc393545b3d69aca2725d036d20b729c333404cbadbe00afe"
 
 [[files]]
+file = "mods/create_marketplace-0.4.2.jar"
+hash = "ff8e1bf950cb6b94ab2bfd87007aa1e2273dd089f8dbbe717c7d330044dc2270"
+
+[[files]]
 file = "mods/create_optical-0.4.2.jar"
 hash = "52d32c5362617c7b796efbc1a588e4d844107252fe30c5645eb10741d5c090bd"
 
@@ -1303,6 +1331,10 @@ hash = "9221f4caa70036d05a04e83e6b57844fa03b60cdef6ade1491c37c0f7800d063"
 [[files]]
 file = "mods/create_pattern_schematics-2.0.10.jar"
 hash = "d6525b9ab9914a194ca5aa00e6605f5977d8ac28722cdccce018da44f62bc5c5"
+
+[[files]]
+file = "mods/create_rns-1.1.2-1.21.1-6.jar"
+hash = "8242589e25994438d119e21d6466716c762f3eb67e935cd47b87a33ff12461ea"
 
 [[files]]
 file = "mods/create_vibrant_vaults-0.3.2.jar"
@@ -1437,6 +1469,14 @@ file = "mods/immersive_paintings-neoforge-1.21.1-0.7.8.jar"
 hash = "c377f6dfaf5be5022761f6e3d6310ef90e59e10bd00bb252d78cff5381b2520c"
 
 [[files]]
+file = "mods/immersive_portal_sable_bridge-0.1.jar"
+hash = "0b5be065fc62d41086f553df1aa072b5e50e618dcb2eaf8fccac537fac644a0d"
+
+[[files]]
+file = "mods/immersive_portals-6.0.7-all.jar"
+hash = "a7ec4e0fded029f5ed445b297857e907346591a5805d595f1734a2773c8b403d"
+
+[[files]]
 file = "mods/interiors-1.21.1-neoforge-0.6.1.jar"
 hash = "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5"
 
@@ -1463,6 +1503,10 @@ hash = "e917dfdb9ced0cae0e5d9c471cae5b427855b31b0015872ec376ab2bdde373a7"
 [[files]]
 file = "mods/jei-1.21.1-neoforge-19.27.0.343.jar"
 hash = "137f60018968a50c6f00e3a8ca9be790391792d2f3e6eff66237f2e9b3bc1353"
+
+[[files]]
+file = "mods/kambrik-neoforge-8.0.0-beta.2.jar"
+hash = "a9b14170f2eeb323261c14bf40137ae78920ce2d61d52c85cdccc45bd9f37c2c"
 
 [[files]]
 file = "mods/kotlinforforge-5.11.0-all.jar"
@@ -1606,6 +1650,14 @@ file = "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
 hash = "a8705202193813de291195ad6bbd03101c4ddc1ab2878aadb018ab92f903999f"
 
 [[files]]
+file = "mods/numismaticscalculator-neoforge-1.2.0.jar"
+hash = "5311ff6478b919b209e64980b598ecc8c51b982c382305a5459c5ce4c04cb0a2"
+
+[[files]]
+file = "mods/numismaticsutils-2.2-1.21.1.jar"
+hash = "27a2f7b249ef37507abddccae1c847ae9a85787683deb732edea0c2c10292f66"
+
+[[files]]
 file = "mods/ok_zoomer-neo-10.0.0-beta.13.jar"
 hash = "61da322358127329d40b36a028faa7d91c370a3708e08becf1f1b8b242c5eb61"
 
@@ -1620,6 +1672,10 @@ hash = "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b"
 [[files]]
 file = "mods/prickle-neoforge-1.21.1-21.1.11.jar"
 hash = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
+
+[[files]]
+file = "mods/quark_backported-1.1-neoforge-1.21.1.jar"
+hash = "74a2e67381f818301aabe580f5f002ff1fa19d08fac7c41b7e3d1493d5079946"
 
 [[files]]
 file = "mods/railways-0.3.0-alpha.2+neoforge-mc1.21.1.jar"
@@ -1699,6 +1755,10 @@ file = "mods/structurize-1.0.830-1.21.1.jar"
 hash = "1335508a710f10e6c4d99daa114e879556f33a60e51e64f36bb7a3fd1bb62ffa"
 
 [[files]]
+file = "mods/technonw-1.1.0.jar"
+hash = "943d586174831c225bdcf43fc14872e803d6f20663c6fe598dd8daa6ea028499"
+
+[[files]]
 file = "mods/thesettler_x_create-0.2.0.jar"
 hash = "00c224bb2de8b35420a8e3c7bd5ea2112df74c81564126c1d0548d1adf4aec76"
 
@@ -1720,6 +1780,10 @@ hash = "0ed7d23f7f9bb186c0ff097fe015bf0988a456999f2cf6658705a6b4a17350e4"
 metafile = true
 
 [[files]]
+file = "mods/villagercurrency-1.1.1-neoforge-1.21.1.jar"
+hash = "01483feba2ff2b9909f2c78fd59689fd66bc9f8ec733ad08bf8178f184556602"
+
+[[files]]
 file = "mods/voicechat-neoforge-1.21.1-2.6.20.jar"
 hash = "1e387494cec156553557d0996cee6dbf6ca606e371782f723ff08d3e9905fe3c"
 
@@ -1730,6 +1794,10 @@ hash = "c33c719edc0cc6372453c4aef7cb04589d66dc6e0d0a54eccc79ffd38b2a6a74"
 [[files]]
 file = "mods/warehouseworkshop-01.00.007.jar"
 hash = "c19ff5038b393e0dc10c865222098c61dc0b7d5537c568b9877590d72ee91eb7"
+
+[[files]]
+file = "mods/waystones-neoforge-1.21.1-21.1.33.jar"
+hash = "5cf1deb53617f3219b66f14e132eb4b33fd14080735a7cfeba026fe8a6c4304b"
 
 [[files]]
 file = "mods/xaeroworldmap-neoforge-1.21.1-1.41.2.jar"
