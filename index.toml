@@ -997,22 +997,6 @@ file = "modrinth.index.json"
 hash = "e7bda0b89cc522ec2f0ced81feaa30d60a0ae9ada7b1b304dc48c6b167086842"
 
 [[files]]
-file = "mods/Byzantine-1.21.1-51.jar"
-hash = "9af9c37d81e184e98b49f7c5eaae7c55a905877249281271448365b3a4b1d684"
-
-[[files]]
-file = "mods/Design-n-Decor-1.21.1-2.2b.jar"
-hash = "af0264e8ba44b77744d9a6173b79fcc39758c5b975fbb377d4000e85bfcd2c8f"
-
-[[files]]
-file = "mods/Schematic_Builder_Autoscanner-1.21.1-1.1.jar"
-hash = "b933c8ec1f2acebab41f8cd1087d593337c5396eb4d0ae0b33f0e91d43d34b5e"
-
-[[files]]
-file = "mods/aeroworks-1.2.11.jar"
-hash = "198fdccc4f745455fa45f29c3cf594f0cdadbf64223eb01d792a3e894c806e78"
-
-[[files]]
 file = "mods/amendments.pw.toml"
 hash = "bf68b426ab3361b1257ff1c3a8c0355475807d5f18332eebaca7754bcef945b3"
 metafile = true
@@ -1043,10 +1027,6 @@ hash = "1a52b3a6071fa86dc0854189e110e7dd6c27c0944856fee39a781f58275e1cdd"
 metafile = true
 
 [[files]]
-file = "mods/balm-neoforge-1.21.1-21.0.59.jar"
-hash = "1c3be533c0b892fc661f5c65617db72e656c8981ae49d40977ccc731ae9e22c8"
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "3595ba816c9ef014350d0072b90715d99cda633c0b3c8aee7a64ce3402ade5de"
 metafile = true
@@ -1062,17 +1042,9 @@ hash = "cc68949c02bcb1ea4ad83d7a8f9c7b039b7ccb6af8ac97a8b9ea62efaac7a484"
 metafile = true
 
 [[files]]
-file = "mods/bits-and-bobs-1.21.1-1.0.6.jar"
-hash = "72aed74fbcf4b3a19e151e900f40af67f9a3ac8bd656cf370d95073459ceb4fc"
-
-[[files]]
 file = "mods/bits-and-bobs-for-minecolonies.pw.toml"
 hash = "b2429278d4d35e4093593621e54c6972a25a160571f903e3fcecc987496d2f18"
 metafile = true
-
-[[files]]
-file = "mods/blockui-1.0.209-1.21.1.jar"
-hash = "eec023231b21a606306cac6c588b5b07f51741f5e5bc831dba709d52332b82ab"
 
 [[files]]
 file = "mods/blockui.pw.toml"
@@ -1090,10 +1062,6 @@ hash = "a66c2efa9792d84cb98113f4030d51ecf19db0dd6f2dd41624618cfdf3ed8565"
 metafile = true
 
 [[files]]
-file = "mods/camping-neoforge-1.21.1-2.1.4.jar"
-hash = "d1ad5a7a824fcc07c8d20ee97c2cfde4ddb6f9e43d510a2be3bcd5f237c3ad1b"
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "11fa4cee80d5456e1681f8229c756d8c4aaa3ce6fcd8ab0bef62f408c95441e6"
 metafile = true
@@ -1102,10 +1070,6 @@ metafile = true
 file = "mods/cc-sable.pw.toml"
 hash = "9b8211d6db388c8f289d7134f584ed817b24a3ab202857e0f631a5c168972095"
 metafile = true
-
-[[files]]
-file = "mods/cc-tweaked-1.21.1-forge-1.120.0.jar"
-hash = "81a903710d109d129c249c105695a96f4bad5e0acf7068920fb191ba791c14ce"
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
@@ -1173,17 +1137,9 @@ hash = "e88ee62deb6896aaa3753f3672d8d09fed1c1bf67b87cee0526954d8c467d705"
 metafile = true
 
 [[files]]
-file = "mods/copperagebackport-neoforge-1.21.1-0.1.4.jar"
-hash = "1cd0007d427be712d303f5a6f8084c67a2635f02e686e8c9c824cc1dcfdfa272"
-
-[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
 metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-bundled-1.21.1-1.2.1.jar"
-hash = "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248"
 
 [[files]]
 file = "mods/create-aeronautics-gadgets-and-gizmos.pw.toml"
@@ -1326,17 +1282,9 @@ hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
-file = "mods/create_oxidized-0.1.3.jar"
-hash = "9221f4caa70036d05a04e83e6b57844fa03b60cdef6ade1491c37c0f7800d063"
-
-[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "e55818e04fcaeb7bc0edce1cec106bc88cfd56d2bdbcc228fb374f797ef598cc"
 metafile = true
-
-[[files]]
-file = "mods/createminecolonies-1.1.jar"
-hash = "85a27f804466d5a33f7f17dbeb128f7b017941d315b86925d34bba4909355632"
 
 [[files]]
 file = "mods/curios.pw.toml"
@@ -1354,17 +1302,9 @@ hash = "eadc5c523a94b82ee8cbb6bd136975a5a3a41acab6f8f12bc7e2a237732f3379"
 metafile = true
 
 [[files]]
-file = "mods/disableminecoloniesabandonedstructures-1.21.1-1.0.2.jar"
-hash = "d77e0ef7da40e84df14eb177f0c183b6dfa8ed85b5a30040214e23b50a2f6fb3"
-
-[[files]]
 file = "mods/do-api.pw.toml"
 hash = "488c916a519935ea70a04ae507400bfcaf794cbbf108acb1a3e213db2a15058b"
 metafile = true
-
-[[files]]
-file = "mods/domum-ornamentum-1.0.231-main.jar"
-hash = "04c0c902bdbcbd48e38bee5a323907ae0b7b7db4ff4a3e4da7c45334b65610a1"
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
@@ -1447,10 +1387,6 @@ hash = "f6bcf591a91c87fe02187642c7311ce08ed9d0d997be0fb5befc41b7fb61b868"
 metafile = true
 
 [[files]]
-file = "mods/gravestone-neoforge-1.21.1-1.0.37.jar"
-hash = "b7de5decbf1f35e41af2b146ad201699f434cf32b0f8f9b7d1638a9933bd5a3e"
-
-[[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
 hash = "37e62ad6e7cde4983ac6c4a4173e7332e0b157f080dd71d615a9aa7423c985d4"
 metafile = true
@@ -1474,10 +1410,6 @@ metafile = true
 file = "mods/inventory-essentials.pw.toml"
 hash = "dfb3be79222071b4ffc65a1bdc84b3678c24abdf30ec2242514ec3b8f8d44063"
 metafile = true
-
-[[files]]
-file = "mods/inventoryessentials-neoforge-1.21.1-21.1.16.jar"
-hash = "3c27c5818ab1e5e27d142521088785922d7016edb2533a543a83d3fd48863ead"
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
@@ -1510,21 +1442,9 @@ hash = "3c13beafeb69d23d2a43805cfa3d79b7e458cfb8f9ce603075b84d95da630d4b"
 metafile = true
 
 [[files]]
-file = "mods/kotlinforforge-5.11.0-all.jar"
-hash = "89d2ccd9d2ca2996ca3ee57b27165893f4bc4b8431be89461f8b2f8fe6162ac1"
-
-[[files]]
-file = "mods/kubejs-create-neoforge-2101.3.1-build.18.jar"
-hash = "60fab77c339e5757a97a9a1e2d4019ed2a610bd46583d4353c9a13596e01e614"
-
-[[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "21a5deb5da882d9f3eb4eaf7f0cf77f52737e1e6b44d2f691bf10fda9c86d790"
 metafile = true
-
-[[files]]
-file = "mods/kubejs-neoforge-2101.7.2-build.368.jar"
-hash = "28867299e7a9f02cfd74e34745fdbbb073fe4887fddbc98fd6c1ed2e87b01482"
 
 [[files]]
 file = "mods/kubejs.pw.toml"
@@ -1622,17 +1542,9 @@ hash = "0c93cce4687d676ade38014ef7c93eb70d00edb42537cf0beae8675b1affbb89"
 metafile = true
 
 [[files]]
-file = "mods/letsdo-API-forge-1.3.0-beta-release-forge.jar"
-hash = "6a73ededf64e10b87a2a1c5c5186e9f8ad87d913413b61b5cd9c23790f1da09b"
-
-[[files]]
 file = "mods/lever-drugster.pw.toml"
 hash = "4e896791db088b5f5dc1b68890665d3576680dbd7af3b580c4d4f793bdec86d2"
 metafile = true
-
-[[files]]
-file = "mods/mailrail-1.0.0.jar"
-hash = "978a336e27fdcf8400bb9426d0d63956454086c391f471ad7962aa54a4554399"
 
 [[files]]
 file = "mods/mc-trade-post.pw.toml"
@@ -1640,21 +1552,9 @@ hash = "599df395128ba980680139a884fd6005efaeb78edb87cccb743719f8a3cedc25"
 metafile = true
 
 [[files]]
-file = "mods/mctradepost-1.05.026-1.21.1.jar"
-hash = "a702c5895ef1217a6e6d0c2b118e2ab25bde8301673222981526a2e5ba92c309"
-
-[[files]]
-file = "mods/minecolonies-1.1.1319-1.21.1.jar"
-hash = "ab97c0eec45c3f2539ec31428e3c836bb30ba1c537af0c86f5ab4e38754f6a4d"
-
-[[files]]
 file = "mods/minecolonies-jade-crops-addon.pw.toml"
 hash = "03fbcc9679e325ffcb9d3697aa5f657c561c7bd27de834d016f0cdc2c6690a8b"
 metafile = true
-
-[[files]]
-file = "mods/minecolonies-mages-2.2.jar"
-hash = "44d0f0e839a7c399b1b5da358526953bd81878c95d925f654efeaee81bf7ea0a"
 
 [[files]]
 file = "mods/minecolonies-mages-ironspells-integration.pw.toml"
@@ -1682,14 +1582,6 @@ hash = "2578f6dbf2013e9bf74bbb8b16c6b731116dec3bea7912db463f10efb72a0e77"
 metafile = true
 
 [[files]]
-file = "mods/minecolonies_pillager_patrol_fix-1.0.0 - Kopie.jar"
-hash = "e5a13aa8228bab4d1a1a60b33a627e107ffbf33ae1acb2cfe50f426dcfb3433a"
-
-[[files]]
-file = "mods/minecolonies_qol-1.0.0___1.1.921-1.21.1.jar"
-hash = "a37fbf2f821f34dd410e01a9a07e6e64badd33a1f807735ffc2bc0d11e707943"
-
-[[files]]
 file = "mods/minecoloniesxcreatemod.pw.toml"
 hash = "8403629165276a53552d4e3abf2a821a238a1ae1034e21a9eafb594f418a0332"
 metafile = true
@@ -1710,14 +1602,6 @@ hash = "bc9449306cb2c32f16347779291d68e5fba67f85d7aca04b4b9cc1c033ec4083"
 metafile = true
 
 [[files]]
-file = "mods/multipiston-1.2.58-1.21.1.jar"
-hash = "7ca26db4648589b7f76694c249d5096c0c0afb7615fe6adf9f638c6c825c15e7"
-
-[[files]]
-file = "mods/netherportalfix-neoforge-1.21.1-21.1.1.jar"
-hash = "c1077de0c7f1ff5289d1852e0674d9c477247d4318c9809b21c60e56a31ae31a"
-
-[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
 metafile = true
@@ -1728,17 +1612,9 @@ hash = "dccfa52b3ea9eca8a5265ef89ceb0c5403f4e23360a26afc64bf111e39abfe64"
 metafile = true
 
 [[files]]
-file = "mods/nostructureoverlap-2.0.1.jar"
-hash = "f56db9cb1f85ecdfd86f36c1aeb02a8193d9ebf247301c6ab71f6679c55a88b4"
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "5de9db0e10c89eae874a1af537cb3738eee5e9ddaf1daa7ba96a8b3d571a2668"
 metafile = true
-
-[[files]]
-file = "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
-hash = "a8705202193813de291195ad6bbd03101c4ddc1ab2878aadb018ab92f903999f"
 
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
@@ -1796,10 +1672,6 @@ hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true
 
 [[files]]
-file = "mods/rhino-2101.2.7-build.85.jar"
-hash = "95df92ce578b2504cb16d8c9fc285303bf062eb15452246a18e57b7cf091c19a"
-
-[[files]]
 file = "mods/rhino.pw.toml"
 hash = "2e8064e6ac6f707d6df65ee2738279ec31802ef70514584bb8c8a8ed2010f5f6"
 metafile = true
@@ -1840,10 +1712,6 @@ hash = "d2849a029418dd88ed2e82d2a91eedafc39d1eee74b8a0dfad01418abb149069"
 metafile = true
 
 [[files]]
-file = "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar"
-hash = "21724b7f676696f8d3716142406440adba9e63fc6519eeadc2b7ee8aae64c760"
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "924590dd9b32e32f209e4e1986347b90355c07763e9a27dc79caa9cb12efeab5"
 metafile = true
@@ -1879,22 +1747,6 @@ hash = "9d2acdad066c894459dfe7f24567dd585b00be7529aef5216a5cd6338c697f04"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedbackpacks-1.21.1-3.25.64.1919.jar"
-hash = "85e50078eab0b5cebdb5fb336b3a7b4a5bbeaa71e4d29780d182b7a5d691c0ed"
-
-[[files]]
-file = "mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.7.119.jar"
-hash = "6486da371d8cf300ed3f0136678343f57c1a48e8bc17e5ca75cf8b95c6a4c9b4"
-
-[[files]]
-file = "mods/sophisticatedcore-1.21.1-1.4.60.2044.jar"
-hash = "c53de6ef77fcbb8a486a95074959bfdbcb06b63acb44340a4dae9c3a70c0a1e0"
-
-[[files]]
-file = "mods/sophisticatedstorage-1.21.1-1.5.62.1858.jar"
-hash = "ad86be2ccb426290e10c236d8be6cb4295c954f5baa4dba3f07e8b54e600c1e8"
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
@@ -1905,17 +1757,9 @@ hash = "7e3bead730c077ab6ff936e48ec95c9d0ce89bb0bb4b1dfcd9d76a7f01b0bd3f"
 metafile = true
 
 [[files]]
-file = "mods/structurize-1.0.830-1.21.1.jar"
-hash = "1335508a710f10e6c4d99daa114e879556f33a60e51e64f36bb7a3fd1bb62ffa"
-
-[[files]]
 file = "mods/structurize.pw.toml"
 hash = "2cdd809f9697c72da8337f719ca96e907fc764b4cc6b194807ac83e586d8f260"
 metafile = true
-
-[[files]]
-file = "mods/thesettler_x_create-0.2.0.jar"
-hash = "00c224bb2de8b35420a8e3c7bd5ea2112df74c81564126c1d0548d1adf4aec76"
 
 [[files]]
 file = "mods/torchmaster.pw.toml"
@@ -1923,12 +1767,13 @@ hash = "4acd0daed52188d2ccd8277953e697113aebf89c1bd6b1049a1e859f8eb26ce3"
 metafile = true
 
 [[files]]
-file = "mods/towntalk-1.2.0.jar"
-hash = "98139f54cc0f6f4be6d7fa8927cd170df8b14545ae04643436dbd48517589eb4"
-
-[[files]]
 file = "mods/towntalk.pw.toml"
 hash = "a7074e8e499d34f5ce633dbd33f818e376dd1941ec5b1d97a33acd019df69b5a"
+metafile = true
+
+[[files]]
+file = "mods/unofficial-cc-tweaked-v-1-120-1-cf.pw.toml"
+hash = "25612301bd197a97b683dc935cfd0928edd246e423f83949a18c598946fd265f"
 metafile = true
 
 [[files]]
@@ -1942,10 +1787,6 @@ hash = "1e9367cc5fa6e881a3b2a0edbd373d8259fcb2a5330981103bb918eb1b79c786"
 metafile = true
 
 [[files]]
-file = "mods/volcanicmason-1.0.2.jar"
-hash = "c33c719edc0cc6372453c4aef7cb04589d66dc6e0d0a54eccc79ffd38b2a6a74"
-
-[[files]]
 file = "mods/vs-hose-connectors.pw.toml"
 hash = "2263d8729011b4bb57cbcec3cdedf6888d4f3a4875b9f3415427b3263b5a9f28"
 metafile = true
@@ -1954,10 +1795,6 @@ metafile = true
 file = "mods/warehouse-workshop-a-minecolonies-add-on.pw.toml"
 hash = "8d8613dcee6baf769d546bd45b93ecdeee3a5df814c363c1217b9c29ffb1b1b7"
 metafile = true
-
-[[files]]
-file = "mods/warehouseworkshop-01.00.007.jar"
-hash = "c19ff5038b393e0dc10c865222098c61dc0b7d5537c568b9877590d72ee91eb7"
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
