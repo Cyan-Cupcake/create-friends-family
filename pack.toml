@@ -11,3 +11,6 @@ hash = "483a5f6f0579a14b0f1b600b99ba7fb2e20c25d43e0d8ca7fcc7aeeeda2ef21a"
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.235"
+
+[update]
+url = "https://cyan-cupcake.github.io/create-friends-family/pack.toml"
