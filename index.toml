@@ -49,10 +49,6 @@ file = "config/appleskin-client.toml"
 hash = "7127a276c7305371397053cd8d0833e6825c828850626e4067b9fed1430ed217"
 
 [[files]]
-file = "config/axiom/.axiom.json.backup"
-hash = "9ab888c514b99c44e2b6d34ec4b92facd1716b6f88a6dccad1388a53ab24288b"
-
-[[files]]
 file = "config/axiom/axiom.json"
 hash = "9ab888c514b99c44e2b6d34ec4b92facd1716b6f88a6dccad1388a53ab24288b"
 
