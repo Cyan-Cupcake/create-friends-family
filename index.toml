@@ -1002,6 +1002,16 @@ hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
 
 [[files]]
+file = "mods/apple-skins.pw.toml"
+hash = "ae43513fa5d7eb4998d95ac3c8b9669a4c4a5bcff7e79756e968dce89339b2ea"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "18d7fdd3852c40e9ea63a9597f5402f8ac3dd4d4a62c81e3a6cbe09daa009b02"
 metafile = true
@@ -1012,8 +1022,43 @@ hash = "fcbc92ec9ef84d31aea4ff0798d15fb202b2f8e9bfa4358d9e76a25fa4e68ae2"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "8c13c49284e9c2f9007874916ab401799f66f5549779881ab2b9bcc57d450f13"
+metafile = true
+
+[[files]]
+file = "mods/create-slice-and-dice-growth-accelerator.pw.toml"
+hash = "058d6a0b690d7ada105c4267aeb01e1d31471598eb76ca66c98c25eedb3d9879"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "096b8e62fe666bc8e32d4fd5c5512dcd3e464f7f4e29979f00d8ddd2e22a931e"
 metafile = true
 
 [[files]]
@@ -1032,13 +1077,38 @@ hash = "350357b34feae2f0971d114ba856e4915e508efec110eea5ebdeac419d515e08"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "4fa25309ea7f4f7770ce6588f39711e891d39f70ae0906b842647273a9ce0448"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "cf7390cf06a861f7661222773371b429fce4fdd359240ca3c0eff20835471c0c"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
 metafile = true
 
 [[files]]
@@ -1052,8 +1122,53 @@ hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "d21467f13f2bff35f6e7c5172f9820e55499c49bfa1ebd45f587e890f9c4b726"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
+hash = "bcc419e665600b7ae3351478c159477c6a4b3d59b08e7da73499dbc929812385"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-brewery-farmcharm-compat.pw.toml"
+hash = "70ce15946e4233feb55c10b5958db355a3e209c592c19fa273176d894423f9cb"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight-farmcharm-compat.pw.toml"
+hash = "44d558e0b8fd72511318dc3578e7134cce95b6c3791d9f2535119d4dec04a4c5"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "139243c0b47a2d89147289b8d9ef91178c1c2511f3060e00e3699d0e3adb226b"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-furniture.pw.toml"
+hash = "07001924cb1dbf26307911da978169f9be39eccb685eba1d07961e74bcaaaa14"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "98929c2d2368656d039c75d32612333edf4838ce95b84c7191d01021e3cde6fb"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "535e8e9c6bc184e9771cf4e35795c8f162d89abeb5b9aed9c2ea2988c710776f"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-wildernature.pw.toml"
+hash = "dd7ec3687553b3e83d76b72ca22ec84cb8f4e618585aeb972377c42a7d6ae72a"
 metafile = true
 
 [[files]]
@@ -1072,6 +1187,21 @@ hash = "e92633222b9275744ba9ae7a90781494f67933924b56ea8287c5dc7553e77e17"
 metafile = true
 
 [[files]]
+file = "mods/sable.pw.toml"
+hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "47f7a98662dff8dae871424d210f1f8144617140a9d84b9f502a6d620c124883"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "b09f7819bbd22c2cc6a70601295721cb3bee6d830ca2f51fdacb50de519596e8"
 metafile = true
@@ -1084,6 +1214,16 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "8f940ca9674c669991b2afcb5ae88083fd1c9222a3953734b2aff688813f3bbc"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "8f9cfa61518cb3f9a1bca32ff2a50d39bb5dc33041a34cbe292462f6cefa3069"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "0340d3177198bd3f05802b92b7f856a7d9882c7fd90e0aa48cb66a040c4a009e"
 metafile = true
 
 [[files]]
@@ -1101,3 +1241,13 @@ hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 [[files]]
 file = "packwiz.json"
 hash = "8a68597fc5add93e006caa9e8017df11dcbd4079f195b8729bdf0f99f67fb9ec"
+
+[[files]]
+file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
+hash = "4a1765568ea97948d6e8a1871896bff7e980c1b63593866b4cdb330152b713d3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xaeros-world-map-excalibur-support.pw.toml"
+hash = "57c254f03a1f33be8096c166d7a17be9b936fbad00af543725d1f075e4c920ff"
+metafile = true

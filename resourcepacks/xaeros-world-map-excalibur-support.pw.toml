@@ -1,0 +1,13 @@
+name = "Excalibur | Xaero's World Map Support"
+filename = "Excalibur - Xaero's World Map.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UJvbtVPI/versions/Ex7LifpT/Excalibur%20-%20Xaero%27s%20World%20Map.zip"
+hash-format = "sha512"
+hash = "18c1b9ba6c893a6826c1f07f88b4bf415e810baf78ade9731ad34f658769f1f102224b7bbae3178f38f99aee584139597f59566e09444dd1b1558975d440f02f"
+
+[update]
+[update.modrinth]
+mod-id = "UJvbtVPI"
+version = "Ex7LifpT"
