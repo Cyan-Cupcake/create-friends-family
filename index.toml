@@ -1127,3 +1127,7 @@ hash = "c33c719edc0cc6372453c4aef7cb04589d66dc6e0d0a54eccc79ffd38b2a6a74"
 [[files]]
 file = "mods/warehouseworkshop-01.00.007.jar"
 hash = "c19ff5038b393e0dc10c865222098c61dc0b7d5537c568b9877590d72ee91eb7"
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
