@@ -1,0 +1,18 @@
+name = "Excalibur | Supplementaries Support"
+filename = "Excalibur_Supplementaries_1.0_1.21.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2iwITB3c/versions/CQ7rGzFD/Excalibur_Supplementaries_1.0_1.21.1.zip"
+hash-format = "sha512"
+hash = "6ed982eb94e78be025ce8ab17908f4cd832098f7d42a6dddf2e996c047cc13196651fcbb4d5cbc48a7db914569be39122a00bd2bc65717ae8b1a171e932b97bf"
+
+[update]
+[update.modrinth]
+mod-id = "2iwITB3c"
+version = "CQ7rGzFD"
+
+[option]
+optional = true
+default = true
+description = "Excalibur support for Supplementaries. Makes decorative blocks blend in."

@@ -1,0 +1,18 @@
+name = "Excalibur | Quark Delight Support"
+filename = "§eQuark Delight_Excalibur§0_§8§0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8VB25q6g/versions/hAwVDzB8/%C2%A7eQuark%20Delight_Excalibur%C2%A70_%C2%A78%C2%A70.zip"
+hash-format = "sha512"
+hash = "6d6bdea1d032b39e6562fd9ebbc965178d39c162810477217881591a8e2bf00010bc125676924b524baae24af356d465d01504ec63287608fca50757b9b60ae7"
+
+[update]
+[update.modrinth]
+mod-id = "8VB25q6g"
+version = "hAwVDzB8"
+
+[option]
+optional = true
+default = true
+description = "Excalibur support for Quark. Improves many vanilla+ blocks and features."

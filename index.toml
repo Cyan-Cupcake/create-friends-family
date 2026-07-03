@@ -1980,10 +1980,50 @@ file = "resourcepacks/Simple Grass Flowers v1.9.6.zip"
 hash = "a787523636834fa0f1c38d1fe764f1d5ae6103901a5aa8daea261e4558917ff6"
 
 [[files]]
+file = "resourcepacks/amendments-excal-support.pw.toml"
+hash = "abfd29a2c2f77ccca07a5f154465c5ae20b3e412573bea45b60957bf1461d6ad"
+metafile = true
+
+[[files]]
 file = "resourcepacks/ccc.zip"
 hash = "4a78c8af8a1810229fd955b656ec675ed99a30c780b666b92704a58d84af9371"
 
 [[files]]
 file = "resourcepacks/excal-realm-rpg-treasure-balloons.pw.toml"
 hash = "d6559cc11d349da8de68746dfbd8f34b75c8a2ade52d4dc2246284bdbb83a7f1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/excal.pw.toml"
+hash = "ed34266a10aeec684f50c357febdbf4c811709beaab4691824e9dda78aee829c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/excalibur-apotheosis-support.pw.toml"
+hash = "acb5ca1ef0462b1f0427aff4bbc99f3ae7e993940ec848c95191465314a2dee3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/excalibur-create-support.pw.toml"
+hash = "6089a6033b9831426a916c1c3712033d7b7054ffe360769fbf2ebc71e3c41887"
+metafile = true
+
+[[files]]
+file = "resourcepacks/excalibur-farmers-delight-support.pw.toml"
+hash = "763b9b7f445c9e5e820bb4e85ad54324a0c0c8ab8d6fa28b35bda4cd02826c86"
+metafile = true
+
+[[files]]
+file = "resourcepacks/excalibur-macaws-roofs-support.pw.toml"
+hash = "6e824dcf98cfd63687af38b8387d07f756a66162db3c7dfa727ca37b70f34cf0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/excalibur-supplementaries-support.pw.toml"
+hash = "f51dbdadd41c9ac0455ec5d66135a751151969975cd84f9ebe894d47ef6d091a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/quark-delight-excalibur-support.pw.toml"
+hash = "941d47493f21907489288c0c8dd93d3fcb4355c4956376bad42c9928c5ec7a72"
 metafile = true

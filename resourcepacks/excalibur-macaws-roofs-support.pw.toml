@@ -1,0 +1,18 @@
+name = "Excalibur | Macaw's Roofs Support"
+filename = "Excalibur_Mcw-Roofs_v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EMO1cXzo/versions/7QJfMEaM/Excalibur_Mcw-Roofs_v1.1.zip"
+hash-format = "sha512"
+hash = "6bcc02a272cb1f6e487e446fc070ffdf0b5f165365e10a322afd761f1c79cd90b71c877cb13c91ce8e430e9b44156ece263141e7a08f387de5584633a1f38d1f"
+
+[update]
+[update.modrinth]
+mod-id = "EMO1cXzo"
+version = "7QJfMEaM"
+
+[option]
+optional = true
+default = true
+description = "Excalibur support for Macaw's mods (furniture, doors, roofs, etc.)."

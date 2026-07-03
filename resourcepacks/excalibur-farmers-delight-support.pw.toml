@@ -1,0 +1,18 @@
+name = "Excalibur | Farmer's Delight Support"
+filename = "FarmersDelightExcaliburSupport_1.21.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nvZcjWQN/versions/fZeYfQE8/FarmersDelightExcaliburSupport_1.21.1.zip"
+hash-format = "sha512"
+hash = "c8554ffad71b69623131eb240794769141ffc2c8899f3666991d9f67a0e7a1e82b07d0e962de6dae5e5e0630b35c2e1b158af63c04f104eb6144c52438d4a314"
+
+[update]
+[update.modrinth]
+mod-id = "nvZcjWQN"
+version = "fZeYfQE8"
+
+[option]
+optional = true
+default = true
+description = "Excalibur compatibility for Farmer's Delight. Improves food and kitchen visuals."
