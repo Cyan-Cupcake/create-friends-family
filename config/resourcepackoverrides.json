@@ -1,0 +1,21 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "vanilla",
+    "fabric",
+    "mod_resources",
+    "moonlight:merged_pack",
+    "file/CreateSophBackpacks.zip",
+    "file/CreateSophStorage.zip",
+    "file/Simple Grass Flowers v1.9.6.zip",
+    "file/ccc.zip"
+  ],
+  "pack_overrides": {
+    "file/CreateSophStorage.zip": {
+      "ignore_compatibility": true
+    },
+    "file/ccc.zip": {
+      "ignore_compatibility": true
+    }
+  }
+}

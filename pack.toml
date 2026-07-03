@@ -1,0 +1,13 @@
+name = "Create - Friends & Family"
+author = "CyanCupcake"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ea92b7e20f5ff7a1ad0ea40d8cbcd32ddcf4e58d2f99744d98dcc4aadae14b0b"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.235"

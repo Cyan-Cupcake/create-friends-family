@@ -1,0 +1,6 @@
+#Maximum number of MineColonies colonies allowed on the server. Set to 0 to disable the limit.
+# Default: 5
+# Range: > 0
+maxColoniesGlobal = 5
+#Dev mode: allow multiple colonies per player (bypasses MineColonies restriction).
+devModeAllowMultipleColoniesPerPlayer = false

@@ -1,0 +1,82 @@
+#Enable extra debug logging for TheSettler_x_Create
+debugLogging = true
+#Minimum Create Shop level required for perma requests.
+# Default: 2
+# Range: 1 ~ 5
+permaMinBuildingLevel = 2
+#Ticks between perma request evaluations.
+# Default: 200
+# Range: 20 ~ 24000
+permaRequestIntervalTicks = 200
+#Max distance (blocks) a working shopkeeper may roam from the hut block.
+# Default: 2.5
+# Range: 0.5 ~ 16.0
+shopkeeperWorkRadius = 2.5
+#Cooldown (ticks) between missing network warning messages.
+# Default: 6000
+# Range: 20 ~ 24000
+missingNetworkWarningCooldown = 6000
+#Cooldown (ticks) between courier debug logs.
+# Default: 200
+# Range: 0 ~ 24000
+courierDebugCooldown = 200
+#Cooldown (ticks) between courier entity debug logs.
+# Default: 400
+# Range: 0 ~ 24000
+courierEntityDebugCooldown = 400
+#Cooldown (ticks) between global resolver injector logs.
+# Default: 200
+# Range: 0 ~ 24000
+globalInjectorLogCooldown = 200
+#Cooldown (ticks) between global request diagnostics.
+# Default: 200
+# Range: 0 ~ 24000
+globalRequestLogCooldown = 200
+#Cooldown (ticks) between Create Shop resolver injector debug logs.
+# Default: 200
+# Range: 0 ~ 24000
+resolverInjectorDebugCooldown = 200
+#Cooldown (ticks) between Create Shop delivery debug logs.
+# Default: 200
+# Range: 0 ~ 24000
+resolverDeliveryDebugCooldown = 200
+#Cooldown (ticks) between request chain sanitize passes.
+# Default: 200
+# Range: 0 ~ 24000
+resolverChainSanitizeCooldown = 200
+#Cooldown (ticks) for avoiding duplicate Create Shop request ordering.
+# Default: 6000
+# Range: 20 ~ 24000
+orderTtlTicks = 6000
+#Ticks before a Create Shop network request is considered overdue.
+# Default: 6000
+# Range: 20 ~ 24000
+inflightTimeoutTicks = 6000
+#Ticks between Create Shop inflight tracking checks.
+# Default: 100
+# Range: 20 ~ 24000
+inflightCheckIntervalTicks = 100
+#Cooldown (ticks) between inflight overdue logs.
+# Default: 200
+# Range: 0 ~ 24000
+inflightLogCooldown = 200
+#Cooldown (ticks) for pending delivery notices.
+# Default: 200
+# Range: 20 ~ 24000
+pendingNoticeCooldown = 200
+#Cooldown (ticks) between delivery assignment debug logs.
+# Default: 200
+# Range: 0 ~ 24000
+deliveryAssignmentDebugCooldown = 200
+#Cooldown (ticks) between pending delivery debug logs.
+# Default: 200
+# Range: 0 ~ 24000
+tickPendingDebugCooldown = 200
+#Enable Create Shop chat messages.
+chatMessagesEnabled = true
+#Enable detailed Create Shop flow-step chat messages.
+flowChatMessagesEnabled = false
+#Cooldown (ticks) between performance timing summaries.
+# Default: 200
+# Range: 0 ~ 24000
+perfLogCooldown = 200
