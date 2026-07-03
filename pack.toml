@@ -1,16 +1,13 @@
-name = "Create - Friends & Family"
+name = "Create - Friends and Family"
 author = "CyanCupcake"
-version = "0.0.1"
+version = "0.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0428815b81336c7acc5ad71b64af09dd264015f9e2ecf6efe0c7168c200d0593"
+hash = "66430b0072ad88379dbc522145b176823209a209cbdc4fc4eb24203dcc18b79e"
 
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.235"
-
-[update]
-url = "https://cyan-cupcake.github.io/create-friends-family/pack.toml"
