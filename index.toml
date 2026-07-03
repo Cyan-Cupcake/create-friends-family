@@ -993,18 +993,6 @@ file = "mods/Byzantine-1.21.1-51.jar"
 hash = "9af9c37d81e184e98b49f7c5eaae7c55a905877249281271448365b3a4b1d684"
 
 [[files]]
-file = "mods/MineColonies_Compatibility-1.21.1-3.42.jar.disabled"
-hash = "77985a6a82fad5ebd754f31275fb6189f503125fdf11d34b6897f8d1e76a07ef"
-
-[[files]]
-file = "mods/MineColonies_LetsDo-1.21.1-2.1.jar.disabled"
-hash = "5a886924afaac1bc31e56c4d48af25bcd67aa1d77261c13162191c0727ed5207"
-
-[[files]]
-file = "mods/MineColonies_Tweaks-1.21.1-3.30.jar.disabled"
-hash = "0fab1a24d872b97be52dd0cfb97d23681761a3c3329f5383791a063e4da07b51"
-
-[[files]]
 file = "mods/Schematic_Builder_Autoscanner-1.21.1-1.1.jar"
 hash = "b933c8ec1f2acebab41f8cd1087d593337c5396eb4d0ae0b33f0e91d43d34b5e"
 
@@ -1039,10 +1027,6 @@ hash = "d77e0ef7da40e84df14eb177f0c183b6dfa8ed85b5a30040214e23b50a2f6fb3"
 [[files]]
 file = "mods/domum-ornamentum-1.0.231-main.jar"
 hash = "04c0c902bdbcbd48e38bee5a323907ae0b7b7db4ff4a3e4da7c45334b65610a1"
-
-[[files]]
-file = "mods/gabstylespack-0.4.0.jar.disabled"
-hash = "5d0fb4913854c2c4165a482bf2395b31626212204ea24cb4fc772947531fb4dd"
 
 [[files]]
 file = "mods/gravestone-neoforge-1.21.1-1.0.37.jar"
