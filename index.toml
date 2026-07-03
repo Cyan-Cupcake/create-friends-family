@@ -1550,6 +1550,11 @@ file = "mods/railwaysuntold-neoforge-1.2.0.jar"
 hash = "2dabb12f399f12f1f5be012258cfcfd3b06147d6c35adfbec442493152b160c4"
 
 [[files]]
+file = "mods/realm-rpg-treasure-balloons.pw.toml"
+hash = "65b08ef670a2838ca8a97b7acb100de8d2cf21bf8ebdfd14d78b725fd7a6df7e"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar"
 hash = "e00e960f9cae9ea411429fadaa48e2d778f8064667cf6aaee7ce88332813b0bf"
 
@@ -1685,3 +1690,8 @@ hash = "a787523636834fa0f1c38d1fe764f1d5ae6103901a5aa8daea261e4558917ff6"
 [[files]]
 file = "resourcepacks/ccc.zip"
 hash = "4a78c8af8a1810229fd955b656ec675ed99a30c780b666b92704a58d84af9371"
+
+[[files]]
+file = "resourcepacks/excal-realm-rpg-treasure-balloons.pw.toml"
+hash = "d6559cc11d349da8de68746dfbd8f34b75c8a2ade52d4dc2246284bdbb83a7f1"
+metafile = true

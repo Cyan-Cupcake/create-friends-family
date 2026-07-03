@@ -1,0 +1,13 @@
+name = "Excalibur | Realm RPG: Treasure Balloons Support"
+filename = "Excalibur Treasure Balloons 1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BktOphvU/versions/jb2DmohH/Excalibur%20Treasure%20Balloons%201.0.zip"
+hash-format = "sha512"
+hash = "3cf6344a34087862e47ecbe7e8c56b767e3502bc5b3cddfa7cc9a45b973eb5fc0677e96e9a0d32cc87421621a39688c3342a602d908978a8a2864c5b9cfe2f7d"
+
+[update]
+[update.modrinth]
+mod-id = "BktOphvU"
+version = "jb2DmohH"
