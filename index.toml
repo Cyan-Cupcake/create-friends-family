@@ -997,6 +997,22 @@ file = "modrinth.index.json"
 hash = "e7bda0b89cc522ec2f0ced81feaa30d60a0ae9ada7b1b304dc48c6b167086842"
 
 [[files]]
+file = "mods/Apotheosis-1.21.1-8.5.4.jar"
+hash = "87ba5351902a247fbb832904b668a4f2416ea4cc1e33a070deda47473c267b06"
+
+[[files]]
+file = "mods/ApothicAttributes-1.21.1-2.9.1.jar"
+hash = "d9c4bc9826c6f21e706df917a21265cd3f6c940426657e4fd22385f6fee16a9b"
+
+[[files]]
+file = "mods/ApothicEnchanting-1.21.1-1.5.3.jar"
+hash = "477687f5e91a48b754f6aeb5ae606ae6844cb4e782a3a4171334e053ad77ddf8"
+
+[[files]]
+file = "mods/ApothicSpawners-1.21.1-1.3.4.jar"
+hash = "b852d5d78e16579f093b235ec0ce85db747487e70abf834a89c7f2fb122157da"
+
+[[files]]
 file = "mods/Byzantine-1.21.1-51.jar"
 hash = "9af9c37d81e184e98b49f7c5eaae7c55a905877249281271448365b3a4b1d684"
 
@@ -1057,8 +1073,20 @@ file = "mods/OctoLib-NEOFORGE-0.6.2+1.21.jar"
 hash = "92ba07d9d9e55a65421f3c3f203c72fe5149cb024d5277267e81d812e11a7f38"
 
 [[files]]
+file = "mods/Patchouli-1.21.1-93-NEOFORGE.jar"
+hash = "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993"
+
+[[files]]
+file = "mods/Placebo-1.21.1-9.9.1.jar"
+hash = "2ecd84c41b65720df4f0e324612ada33fb3c916f7979ed94c8f7c5900f430f4f"
+
+[[files]]
 file = "mods/Platform-neoforge-1.21.1-1.3.3.jar"
 hash = "2d7175e43943d22cbb4f8d4533f0ad620f87a3ac12c77a4f15c3a35d965c4f18"
+
+[[files]]
+file = "mods/Quark-4.1-481.jar"
+hash = "9743a8d319832547ca76b1ae509a86233a19a395c91b2889567a533e63b46ac9"
 
 [[files]]
 file = "mods/RapidLeafDecay-1.21.1-3.0.1.jar"
@@ -1089,6 +1117,10 @@ file = "mods/VanillaBackport-neoforge-1.21.1-1.1.7.10.jar"
 hash = "ecd807ac358e243ede17819455788c7b7a0ce5e0af4aecee82c1c62c586d818d"
 
 [[files]]
+file = "mods/Zeta-1.1-40.jar"
+hash = "4f17d1a2b9fd6d18ddb7697aa451db7fb154053b8648f79de279ae0d7e68a2fa"
+
+[[files]]
 file = "mods/aeroworks-1.2.11.jar"
 hash = "198fdccc4f745455fa45f29c3cf594f0cdadbf64223eb01d792a3e894c806e78"
 
@@ -1097,12 +1129,28 @@ file = "mods/amendments-1.21-2.0.15-neoforge.jar"
 hash = "e44e67d5c2eb5a73ee8ca3d1e9099ed20ccbf8167022bc407df8434b1bf362b5"
 
 [[files]]
+file = "mods/apotheosis_create-1.1.0-neoforge-1.21.1.jar"
+hash = "2eb0fea63be34e12506194958e941c31bebd80250cc2e0269a7056591153c95b"
+
+[[files]]
+file = "mods/apothiccombat-1.2.1.jar"
+hash = "6b3e34193896b6fea997110c08023f23684ae782ad44e2a7928c274e57b4fff1"
+
+[[files]]
 file = "mods/appleskin-neoforge-mc1.21-3.0.9.jar"
 hash = "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"
 
 [[files]]
 file = "mods/architectury-13.0.8-neoforge.jar"
 hash = "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
+
+[[files]]
+file = "mods/artifactory-2.6.4.jar"
+hash = "353df165d4579d9d1c4fe13db12abbe8cfcf0bdbf20d95f46107a8d0ab4c695f"
+
+[[files]]
+file = "mods/artifacts-neoforge-13.2.1.jar"
+hash = "4a8e1f4d5702937a707861e478829695e432286bcd9e58f5834d82c6d998eea8"
 
 [[files]]
 file = "mods/ash_api-neoforge-21.1.1.jar"
@@ -1123,6 +1171,10 @@ hash = "1c3be533c0b892fc661f5c65617db72e656c8981ae49d40977ccc731ae9e22c8"
 [[files]]
 file = "mods/bellsandwhistles-0.4.7-1.21.1.jar"
 hash = "a438cf2ea3a05120e12342484f1e12ca11526fbf4195d259ce1d7df8a9b3ffca"
+
+[[files]]
+file = "mods/bettercombat-neoforge-2.3.2+1.21.1.jar"
+hash = "afb1f28271ee3b622947f533aa754bb22ed67edd4940a3e9fdf2cca1edb7b8a9"
 
 [[files]]
 file = "mods/biolith-neoforge-3.0.12.jar"
@@ -1185,8 +1237,20 @@ file = "mods/cloth-config-15.0.140-neoforge.jar"
 hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
 
 [[files]]
+file = "mods/clutterbestiary-1.1.2-neoforge-1.21.1.jar"
+hash = "1260cb5f762007570a76297326bf0c048fa643e3dd65203c1a1dbdeec820d336"
+
+[[files]]
+file = "mods/cluttered-[NeoForge]-3.0.3-1.21.1.jar"
+hash = "c1649584e178ce04b2ca923f4afcd5640f67cea7a122dc166f9a773db8683e8f"
+
+[[files]]
 file = "mods/colonylimitation-1.0.0.jar"
 hash = "5e4a472f0b9593e0b0dfe216a3578c88a583a910b62c58e88f28cda4a87e5a3b"
+
+[[files]]
+file = "mods/combat_roll-neoforge-2.0.6+1.21.1.jar"
+hash = "4904ae4c392d51c431c915822d817de608fd524632021ce417a17ce1a0185f17"
 
 [[files]]
 file = "mods/copperagebackport-neoforge-1.21.1-0.1.4.jar"
@@ -1301,12 +1365,24 @@ file = "mods/dragonlib-neoforge-1.21.1-beta-3.0.28.jar"
 hash = "ba127947220504d1410716e422ef6a9a387d818a922ad5fdb3be044f9f7556f7"
 
 [[files]]
+file = "mods/dtquark-2.6.1.jar"
+hash = "f0fdb4762ff45fbc9edb24871595ebd13c1567084e07db8396daa78eaaf53fe2"
+
+[[files]]
+file = "mods/dynamictrees-neoforge-1.21.1-1.7.2.jar"
+hash = "ef94737b99e68a0b489b56f901fcc71a3ac8e7a16e3a22ac8413c5f66df566f0"
+
+[[files]]
 file = "mods/emi-1.1.24+1.21.1+neoforge.jar"
 hash = "b68691f94f0727fc517cac2ab55bd6658d1179cc8cc715fe610b60c37469bc4c"
 
 [[files]]
 file = "mods/emi-letsdo-compat-2.0.1+1.21.1+neoforge.jar"
 hash = "f8b3a723e70460ccd259b317e49353738ea2335da69030cd83e89af4462a71a6"
+
+[[files]]
+file = "mods/emi_enchanting-0.1.2+1.21+neoforge.jar"
+hash = "c22dd7b46acb67e83dcba71b50ced95fe0fb9f2f75b9c0e8ce66f338fda301ca"
 
 [[files]]
 file = "mods/emi_loot-0.7.9+1.21+neoforge.jar"
@@ -1371,6 +1447,10 @@ hash = "3c27c5818ab1e5e27d142521088785922d7016edb2533a543a83d3fd48863ead"
 [[files]]
 file = "mods/iris-neoforge-1.8.12+mc1.21.1.jar"
 hash = "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
+
+[[files]]
+file = "mods/irons_apothic_invaders_1.0.0.jar"
+hash = "03247ae098e4214a7d571e554a528094634ab3fbb04f409ddda6d5441e713219"
 
 [[files]]
 file = "mods/irons_lib-1.21.1-1.1.0.jar"
