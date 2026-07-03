@@ -1493,6 +1493,11 @@ file = "mods/minecolonies-mages-2.2.jar"
 hash = "44d0f0e839a7c399b1b5da358526953bd81878c95d925f654efeaee81bf7ea0a"
 
 [[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "3fb26a31eeec8302173f24461f46bc607533daba28e9918d8770a9ad30f7247a"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies_pillager_patrol_fix-1.0.0 - Kopie.jar"
 hash = "e5a13aa8228bab4d1a1a60b33a627e107ffbf33ae1acb2cfe50f426dcfb3433a"
 
@@ -1627,6 +1632,11 @@ hash = "98139f54cc0f6f4be6d7fa8927cd170df8b14545ae04643436dbd48517589eb4"
 [[files]]
 file = "mods/tracks_plus-1.0.5.jar"
 hash = "b2a8cb466cfce2cbf0078e713ae0500c332aed95b4e1819d17e3539282d8515b"
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "0ed7d23f7f9bb186c0ff097fe015bf0988a456999f2cf6658705a6b4a17350e4"
+metafile = true
 
 [[files]]
 file = "mods/voicechat-neoforge-1.21.1-2.6.20.jar"
