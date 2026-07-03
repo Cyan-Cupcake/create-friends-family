@@ -1001,6 +1001,10 @@ file = "mods/Byzantine-1.21.1-51.jar"
 hash = "9af9c37d81e184e98b49f7c5eaae7c55a905877249281271448365b3a4b1d684"
 
 [[files]]
+file = "mods/Design-n-Decor-1.21.1-2.2b.jar"
+hash = "af0264e8ba44b77744d9a6173b79fcc39758c5b975fbb377d4000e85bfcd2c8f"
+
+[[files]]
 file = "mods/Schematic_Builder_Autoscanner-1.21.1-1.1.jar"
 hash = "b933c8ec1f2acebab41f8cd1087d593337c5396eb4d0ae0b33f0e91d43d34b5e"
 
@@ -1169,9 +1173,17 @@ hash = "e88ee62deb6896aaa3753f3672d8d09fed1c1bf67b87cee0526954d8c467d705"
 metafile = true
 
 [[files]]
+file = "mods/copperagebackport-neoforge-1.21.1-0.1.4.jar"
+hash = "1cd0007d427be712d303f5a6f8084c67a2635f02e686e8c9c824cc1dcfdfa272"
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
 metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-bundled-1.21.1-1.2.1.jar"
+hash = "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248"
 
 [[files]]
 file = "mods/create-aeronautics-gadgets-and-gizmos.pw.toml"
@@ -1312,6 +1324,10 @@ metafile = true
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
+
+[[files]]
+file = "mods/create_oxidized-0.1.3.jar"
+hash = "9221f4caa70036d05a04e83e6b57844fa03b60cdef6ade1491c37c0f7800d063"
 
 [[files]]
 file = "mods/createaddition.pw.toml"
@@ -1721,6 +1737,10 @@ hash = "5de9db0e10c89eae874a1af537cb3738eee5e9ddaf1daa7ba96a8b3d571a2668"
 metafile = true
 
 [[files]]
+file = "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
+hash = "a8705202193813de291195ad6bbd03101c4ddc1ab2878aadb018ab92f903999f"
+
+[[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "02c4f941c76c49cbaeb17e549dc0e37562ff5cbd6ca51fec9d8da3bb73538507"
 metafile = true
@@ -1818,6 +1838,10 @@ metafile = true
 file = "mods/skin-layers-3d.pw.toml"
 hash = "d2849a029418dd88ed2e82d2a91eedafc39d1eee74b8a0dfad01418abb149069"
 metafile = true
+
+[[files]]
+file = "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar"
+hash = "21724b7f676696f8d3716142406440adba9e63fc6519eeadc2b7ee8aae64c760"
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
