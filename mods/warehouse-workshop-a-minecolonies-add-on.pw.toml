@@ -1,0 +1,13 @@
+name = "Warehouse Workshop - A MineColonies Add-On"
+filename = "warehouseworkshop-01.00.007.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c1ae9ee4e0a0190f567095aed963001275dd23f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8238647
+project-id = 1506343

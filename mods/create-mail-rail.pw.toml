@@ -1,0 +1,13 @@
+name = "Create: Mail Rail"
+filename = "mailrail-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de653c650ae1e5f73ea9df1c496182451dc6e92d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7451315
+project-id = 1427330

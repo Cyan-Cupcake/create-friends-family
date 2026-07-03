@@ -1,0 +1,13 @@
+name = "Colony Limitation | Minecolonies Addon"
+filename = "colonylimitation-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7fb5311240d1c954a288949ea65d852577374704"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7953087
+project-id = 1519276

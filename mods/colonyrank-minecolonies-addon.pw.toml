@@ -1,0 +1,13 @@
+name = "ColonyRank | Minecolonies Addon"
+filename = "ColonyRank-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "182c5833fa9632061629136f66abe091d7fccbd6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8345278
+project-id = 1519280

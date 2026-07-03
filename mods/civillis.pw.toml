@@ -1,0 +1,13 @@
+name = "Civillis"
+filename = "civillis-neoforge-2.0.0-release+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42137c99559f6d2a8e57da16651da4e41bc14df9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8175137
+project-id = 1460803

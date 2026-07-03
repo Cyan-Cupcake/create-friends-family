@@ -1,0 +1,13 @@
+name = "Minecolonies Pillager Patrol Fix"
+filename = "minecolonies_pillager_patrol_fix-1.0.0 - Kopie.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b31b3ae712af8cfb93d7a341a12392d63486d01"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8206264
+project-id = 1566738
