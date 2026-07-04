@@ -1,0 +1,13 @@
+name = "BSL Minipacks"
+filename = "BSL_Minipacks_v2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gf5qKi6y/versions/21P2iLJ3/BSL_Minipacks_v2.0.zip"
+hash-format = "sha512"
+hash = "d486ddba290a9bea4604e704380d17d901cbd5b4589dae908ba5303066cbf39eb4c551c72fc52abf05a3c69218de3fa9db81b288679137ea9f859659179fc8eb"
+
+[update]
+[update.modrinth]
+mod-id = "Gf5qKi6y"
+version = "21P2iLJ3"

@@ -1985,6 +1985,11 @@ hash = "abfd29a2c2f77ccca07a5f154465c5ae20b3e412573bea45b60957bf1461d6ad"
 metafile = true
 
 [[files]]
+file = "resourcepacks/bsl-minipacks.pw.toml"
+hash = "1cda5e93ee0bda2a8e1b6cbda7a204a283c547da3a90347e875e5d2548d4b635"
+metafile = true
+
+[[files]]
 file = "resourcepacks/ccc.zip"
 hash = "4a78c8af8a1810229fd955b656ec675ed99a30c780b666b92704a58d84af9371"
 
@@ -2026,4 +2031,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/quark-delight-excalibur-support.pw.toml"
 hash = "941d47493f21907489288c0c8dd93d3fcb4355c4956376bad42c9928c5ec7a72"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "f91c2ec79366b4607d93928a07c223cbaa4a2e18fe0c110e68a3fc064e69b65a"
 metafile = true
