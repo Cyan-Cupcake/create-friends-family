@@ -1757,10 +1757,6 @@ file = "mods/mcjadecrops-1.1.1300.jar"
 hash = "26c6cecbbb21dfe02b32be26300b793ad39e5d786e3f646f50a34fa818607127"
 
 [[files]]
-file = "mods/mctradepost-1.05.026-1.21.1.jar"
-hash = "a702c5895ef1217a6e6d0c2b118e2ab25bde8301673222981526a2e5ba92c309"
-
-[[files]]
 file = "mods/mcw-bridges-3.1.2-mc1.21.1neoforge.jar"
 hash = "070b817d3282760d9789b22ce13779613c8b558e02012fd5884d343175d88fd9"
 
