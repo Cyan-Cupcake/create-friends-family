@@ -6,11 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8ea1999c2932af60d9d8a26a45eba387b18b730516c5bd3395b9234f8b644f66"
+hash = "428e548bf61dd11578b630f73c4da4a02ab5be2ca34e71205c8374543783427c"
 
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.235"
-
-[update]
-url = "https://cyan-cupcake.github.io/create-friends-family/pack.toml"
