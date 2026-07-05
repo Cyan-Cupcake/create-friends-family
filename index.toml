@@ -1413,10 +1413,6 @@ file = "mods/create-stuff-additions1.21.1_v2.1.4a.jar"
 hash = "3e93a9930e49bc3f8ae5cf5e45f5e9065860ea708365f8ed4336289295b66893"
 
 [[files]]
-file = "mods/create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.1.0.jar"
-hash = "0ecf61a14df6a6c2ddfb088d5bdc62b6c98ffa94a8e3541428f7d521e57a44d2"
-
-[[files]]
 file = "mods/create_aeronautics_toolgun-0.2.2.jar"
 hash = "c8bd813ff9ba7095562eee8277fc6485ba6ba4e24a1b6dac6563add16beb4e1e"
 
@@ -1599,10 +1595,6 @@ hash = "6308e71fec7095f68328020a63121a966c8ef89bd3528e459c528037e3484354"
 [[files]]
 file = "mods/ftb-teams-neoforge-2101.1.10.jar"
 hash = "a656f2aa0e11a933aab3ba697690aa0eb2041f65e6c5daa448897ee0a6d37a6c"
-
-[[files]]
-file = "mods/ftbchunksaerospace-1.0.1.jar"
-hash = "7662b6d1e78c4986ddf6e2a12eabcca352a1925881ae1beb90aac3df9f6c5b45"
 
 [[files]]
 file = "mods/fzzy_config-0.7.6+1.21+neoforge.jar"
