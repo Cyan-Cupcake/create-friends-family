@@ -1902,10 +1902,6 @@ file = "mods/railways-0.3.0-alpha.2+neoforge-mc1.21.1.jar"
 hash = "8c6f7f04a68e204b26e5392a0d768eca9b12fa2fd1ab1d1f78a021c2eaf512e8"
 
 [[files]]
-file = "mods/railwaysuntold-neoforge-1.2.0.jar"
-hash = "2dabb12f399f12f1f5be012258cfcfd3b06147d6c35adfbec442493152b160c4"
-
-[[files]]
 file = "mods/realm-rpg-treasure-balloons.pw.toml"
 hash = "65b08ef670a2838ca8a97b7acb100de8d2cf21bf8ebdfd14d78b725fd7a6df7e"
 metafile = true
